@@ -1,0 +1,1 @@
+export const API_GATEWAY_HOST = 'http://' + window.location.hostname + ':8080/'
