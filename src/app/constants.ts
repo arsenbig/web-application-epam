@@ -1,1 +1,1 @@
-export const API_GATEWAY_HOST = 'http://' + window.location.hostname + ':8080/'
+export const API_GATEWAY_HOST = 'http://api.rabbit-mq.xyz:8080/'
