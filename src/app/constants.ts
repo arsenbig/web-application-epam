@@ -1,1 +1,1 @@
-export const API_GATEWAY_HOST = 'http://api.rabbit-mq.xyz:8080/'
+export const API_GATEWAY_HOST = 'http://api.epam.one:8080/'
